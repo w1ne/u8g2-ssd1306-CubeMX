@@ -4,3 +4,5 @@ Contains implementation of u8g2 callback functions for the GM009605 display: i2c
 
 Code was tested on the Nucleo stm32F103 board, but should work on any ST MCU with i2c and CubeMX HAL support.
 CubeMX project for Atollic studio is included.
+
+For more information see https://github.com/olikraus/u8g2.
